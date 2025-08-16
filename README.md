@@ -7,4 +7,4 @@ Armour, NPCs, Mobs, etc..
 
 ## WIP Changes
 
-Guns.
+Guns, Swords, & other weapons.
