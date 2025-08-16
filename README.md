@@ -15,7 +15,7 @@ Started but incomplete.
 
 ### Swords
 
-Currently: The grips of swords.
+Currently: The blades of swords.
 
 ### Other Weapons
 
@@ -30,3 +30,7 @@ Ore bows.
 ### Guns
 
 Currently: Revolver & Musket.
+
+### Swords
+
+Currently: The grips of swords.
